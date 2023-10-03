@@ -6,7 +6,7 @@ const bodyParser = require('body-parser');
 app.use(bodyParser.json());
 
 app.get('/', function (req, res) {
-  res.sendFile(__dirname + '/k.html');
+  res.sendFile(__dirname + '/HW2.html');
 });0
 
 app.post('/posts', function (req, res) {
