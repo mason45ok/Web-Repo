@@ -4,5 +4,6 @@
 * 授課教師：蔡芸琤老師</strong></em>
 # :page_facing_up: 作業連結區
 > [#HW0](https://youtu.be/diTJ-WkDRdQ)  
-> [#HW1](https://mason45ok.github.io/MyWeb/)
+> [#HW1](https://mason45ok.github.io/MyWeb/)  
+> [#HW2](https://youtu.be/9qZIBScx-qQ)
 # :file_folder: 專題連結區
